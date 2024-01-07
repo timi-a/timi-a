@@ -9,6 +9,7 @@ Hey, I'm Timi. I am a second year student at the University of Alberta, and I en
  
 Below are the following languages that I want to be more fluent in by the end of 2024:
   - JSON
+  - SQL
   - C
   - C++
   - Swift
