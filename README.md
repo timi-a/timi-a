@@ -3,8 +3,13 @@ learning web-design which involves using HTML, CSS, and JavaScript. My email is 
   - Python
   - Java
   - Lua
- 
-Below are the following languages that I want to be more fluent in by the end of 2023:
   - HTML
   - CSS
   - JavaScript
+  - PHP
+ 
+Below are the following languages that I want to be more fluent in by the end of 2024:
+  - JSON
+  - C
+  - C++
+  - Swift
