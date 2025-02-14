@@ -2,14 +2,17 @@ Hey, I'm Timi. I am a third year student at the University of Alberta, and I enj
   - Lua
   - Python
   - Java
+  - C
+  - Assembly
   - HTML
   - CSS
   - JavaScript
   - PHP
+  - Scheme
+  - Prolog
  
 Below are the following languages that I want to be more fluent in by the end of 2024:
   - JSON
   - SQL
-  - C
   - C++
   - Swift
