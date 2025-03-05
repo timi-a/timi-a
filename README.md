@@ -4,7 +4,7 @@
 <!-- About Me and Image + Socials -->
 <div>
   <!-- Image aligned to the right -->
-  <img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGMwdGVxNGVpNTd2bWkzdXNwMmpmYm12N2locDl5MDQ5MG0zdHlpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sb79pciASiTpvNk3h9/giphy.gif" />
+  <img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGMwdGVxNGVpNTd2bWkzdXNwMmpmYm12N2locDl5MDQ5MG0zdHlpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sb79pciASiTpvNk3h9/giphy.gif" />
 
   <!-- About Me on the left -->
   <div>
