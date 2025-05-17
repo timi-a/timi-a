@@ -13,7 +13,7 @@
       <li>🌍 I'm located in <strong>Canada</strong></li>
       <li>📚 I love studying about <strong>faster algorithms</strong> and <strong>optimization methods</strong></li>
       <li>📝 I'm currently working on multiple <strong>backend projects</strong></li>
-      <li>🧠 I'm currently learning <strong>Parallel Programming</strong> with MPI and Pthread libraries in C</li>
+      <li>🧠 I'm currently learning/utilizing <strong>data science methods</strong> for my internship</li>
       <li>💻 I enjoy developing fun <strong>2D/3D</strong> interactive experiences</li>
     </ul>
   </div>
