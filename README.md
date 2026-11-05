@@ -13,7 +13,7 @@
       <li>🌍 I'm located in <strong>Canada</strong></li>
       <li>📚 I love studying about <strong>faster algorithms</strong> and <strong>optimization methods</strong></li>
       <li>📝 I'm currently working on multiple <strong> Indie projects</strong></li>
-      <li>🧠 I utilizing <strong>data science methods</strong> for my projects</li>
+      <li>🧠 I utilize <strong>data science methods</strong> for my projects</li>
       <li>💻 I enjoy developing fun <strong>2D/3D</strong> interactive experiences</li>
     </ul>
   </div>
